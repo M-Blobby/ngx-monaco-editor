@@ -9,6 +9,7 @@
 - Angular 10: v10.x.x
 - Angular 12: v12.x.x
 - Angular 14: v14.x.x
+- Angular 15: v15.x.x
 
 Using this Module you can utilize the Monaco Editor as an Angular Component. Feel free to contribute, raise feature requests and make it better.
 
