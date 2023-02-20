@@ -16,6 +16,7 @@
     "angular 10",
     "angular 12",
     "angular 14",
+    "angular 15",
     "monaco",
     "monaco-editor",
     "code",
@@ -36,8 +37,8 @@
     "Atul Kumar <atulaggarwal4288@gmail.com>"
   ],
   "peerDependencies": {
-    "@angular/common": "^14.0.0",
-    "@angular/core": "^14.0.0",
+    "@angular/common": "^15.0.0",
+    "@angular/core": "^15.0.0",
     "monaco-editor": "^0.24.0"
   },
   "dependencies": {
